@@ -13,7 +13,6 @@ Program OptimumLap wykonuje symulacje dla wszystkich zaznaczonych torów, wykorz
 Program w języku Python wczytuje dane z plików CSV, grupuje wyniki dla poszczególnych ustawień samochodu i przeprowadza symulację zawodów "między ustawieniami". Punkty są przyznawane za każdy event, a następnie program wypisuje punkty przyznane każdej konfiguracji w celu porównawczym oraz wyboru najlepszej z możliwych, dającej maksymalną lokalną ilość punktów.
 
 4. Dodatkowe funkcje:
-
 Program może wyświetlać uporządkowane dokładne dane dotyczące każdego ustawienia, takie jak: czas, punkty, miejsce w danej konkurencji.
 Istnieje możliwość porównania wyników symulacji z realnymi zawodami.
 
