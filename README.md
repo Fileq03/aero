@@ -1,8 +1,8 @@
-## OptimumLap Simulator
-# Opis
+# OptimumLap Simulator
+## Opis
 Program do symulacji punktów ustawień samochodu, stworzony w celu wspomagania pracy grupy zajmującej się aerodynamiką. Grupa dostarcza dane w postaci wartości Cl (siła nośna) oraz Cd (opór aerodynamiczny), a następnie program wykonuje symulacje dla wszystkich zaznaczonych torów. Wyniki symulacji są eksportowane do pliku CSV.
 
-# Proces
+## Proces
 1. Dostarczenie danych przez grupę aerodynamiczną:
 Grupa zajmująca się aerodynamiką dostarcza dane dotyczące siły nośnej (Cl) oraz oporu aerodynamicznego (Cd) dla różnych ustawień samochodu.
 
@@ -16,7 +16,7 @@ Program w języku Python wczytuje dane z plików CSV, grupuje wyniki dla poszcze
 
 Program może wyświetlać uporządkowane dokładne dane dotyczące każdego ustawienia, takie jak: czas, punkty, miejsce w danej konkurencji.
 Istnieje możliwość porównania wyników symulacji z realnymi zawodami.
-$ Instrukcje użycia
+## Instrukcje użycia
 Uruchom program i dostarcz dane aerodynamiczne.
 Zaznacz tory, na których chcesz przeprowadzić symulacje.
 Program automatycznie eksportuje wyniki do plików CSV.
