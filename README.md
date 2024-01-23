@@ -17,7 +17,7 @@ Program w języku Python wczytuje dane z plików CSV, grupuje wyniki dla poszcze
 Program może wyświetlać uporządkowane dokładne dane dotyczące każdego ustawienia, takie jak: czas, punkty, miejsce w danej konkurencji.
 Istnieje możliwość porównania wyników symulacji z realnymi zawodami.
 
-![](https://github.com/Fileq03/aero/blob/main/diagram.drawio.pdf)
+![Diagram działania programu](https://github.com/Fileq03/aero/blob/main/diagram.drawio.pdf)
 
 ## Instrukcje użycia
 Uruchom program i dostarcz dane aerodynamiczne.
