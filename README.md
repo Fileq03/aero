@@ -27,7 +27,6 @@ python simulate_race.py
 ```
 Porównanie z realnymi zawodami
 ```python
-Copy code
 python compare_to_real_races.py
 ```
 Autorzy
