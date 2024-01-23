@@ -10,11 +10,11 @@ Grupa zajmująca się aerodynamiką dostarcza dane dotyczące siły nośnej (Cl)
 Program OptimumLap wykonuje symulacje dla wszystkich zaznaczonych torów, wykorzystując dostarczone dane Cl i Cd. Wyniki symulacji są eksportowane do plików CSV.
 
 3. Porównanie konfiguracji:
-Program w języku Python wczytuje dane z plików CSV, grupuje wyniki dla poszczególnych ustawień samochodu i przeprowadza symulację zawodów "między ustawieniami". Punkty są przyznawane za każdy event, a następnie program wypisuje punkty przyznane każdej konfiguracji w celu porównawczym oraz wyboru najlepszej z możliwych, dającej maksymalną lokalną ilość punktów.
+  Program w języku Python wczytuje dane z plików CSV, grupuje wyniki dla poszczególnych ustawień samochodu i przeprowadza symulację zawodów "między ustawieniami". Punkty są przyznawane za każdy event, a następnie program wypisuje punkty przyznane każdej konfiguracji w celu porównawczym oraz wyboru najlepszej z możliwych, dającej maksymalną lokalną ilość punktów.
 
 4. Dodatkowe funkcje:
 Program może wyświetlać uporządkowane dokładne dane dotyczące każdego ustawienia, takie jak: czas, punkty, miejsce w danej konkurencji.
-Istnieje możliwość porównania wyników symulacji z realnymi zawodami.
+
 
 ![Diagram działania programu](https://github.com/Fileq03/aero/blob/main/diagram.drawio.pdf)
 
